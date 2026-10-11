@@ -1,0 +1,8 @@
+vehicle,SOC_support_inside_KIT,temperature_support_inside_KIT,joint_rectangular_support_inside_KIT
+CUP1,True,True,True
+CUP2,True,True,True
+CUP3,True,True,True
+CUP4,True,True,True
+CUP5,True,True,True
+ID1,False,False,False
+ID2,True,False,False

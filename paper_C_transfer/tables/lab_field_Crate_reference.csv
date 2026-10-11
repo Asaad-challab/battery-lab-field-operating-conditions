@@ -1,0 +1,7 @@
+domain,metric,C_rate
+TUM field,Median vehicle P95,0.15854137144021613
+TUM field,Highest vehicle P95,0.3777407302594997
+KIT lab,Minimum protocol rate,0.3333333333333333
+KIT lab,Maximum protocol rate,1.6666666666666667
+MIT lab,Minimum fast-charge rate,3.1
+MIT lab,Maximum fast-charge rate,5.9
